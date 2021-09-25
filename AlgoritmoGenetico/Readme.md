@@ -9,4 +9,4 @@ En esta versión, se pueden meter fracciones de los objetos.
 
 # Algoritmo
 Se tienen dos algoritmos: uno genético y otro usando la fuerza bruta.
-El objetivo es 
+El objetivo es comparar los tiempos de ejecución de ambos algoritmos.
