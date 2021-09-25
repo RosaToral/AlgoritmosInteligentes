@@ -10,3 +10,5 @@ En esta versión, se pueden meter fracciones de los objetos.
 # Algoritmo
 Se tienen dos algoritmos: uno genético y otro usando la fuerza bruta.
 El objetivo es comparar los tiempos de ejecución de ambos algoritmos.
+
+El algoritmo genético fue proporcionado por el Profesor Orlando Muñoz Texzocotetla y modificado para funcionar con el problema de la mochila.
