@@ -2,6 +2,6 @@
 
 Cada carpeta tiene su propio Readme
 
-[Busqueda en Amplitud](BusquedaAmplitud/Readem.md)
+[Busqueda en Amplitud](BusquedaAmplitud/Readme.md)
 
 [Algoritmo Genético en comparación con fuerza Bruta](AlgoritmoGenetico/Readme.md)
